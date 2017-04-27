@@ -1,0 +1,29 @@
+
+/*
+SELECTORES
+
+-- de tipo, buscan los tags semanticos, <p>, <h1>, etc...
+-- de clase, class="hola".
+-- por id identifica a un solo elemento concreto (en proyectos no se suele usar).
+-- id universal, se aplica a todo con asterisco y se suele poner al principio,
+   para sobreescribir sobre el estilo de navegadores!!
+
+COLOR
+
+--por nombre
+--por RGB, rgb(0,0,0)
+--por hexadecimal, #ff0000
+--por RGBA rgba (0,0,0, 1)
+--por HSL Hue, Saturacion, Iluminancia, Alpha
+
+Herramienta para Colores: Color Pickers, Chrome EyeDropper, AdobeColorWheel
+ */
+
+body {
+    background-color: palegreen;
+}
+
+.parra {
+    color: white;
+
+}
